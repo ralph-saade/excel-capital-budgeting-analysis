@@ -17,5 +17,6 @@ You can download or view the Excel model here: [Investment Project Model](Invest
 
 ## How to Use
 1. Open `Investment_Project_Performance_Analysis.xlsx` in Microsoft Excel (2016 or later).  
-2. Review the **Cash Flow Table** for project inflows and outflows.  
-3. Review the **calculations** for NPV, IRR, and Payback Period for each project.
+2. Review the **Cash Flow** sheet for project inflows and outflows.  
+3. Review the **Calculations** sheet for NPV, IRR, and Payback Period for each project.
+
